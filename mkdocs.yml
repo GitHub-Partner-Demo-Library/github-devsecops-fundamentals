@@ -9,7 +9,7 @@ site_description: GitHub Universe 2023 | Workshop
 remote_name: origin
 remote_branch: gh-pages
 
-repo_url: https://github.com/orgs/github-partner-demo-library/github-devsecops-fundamentals/
+repo_url: https://github.com/github-partner-demo-library/github-devsecops-fundamentals/
 repo_name: GitHub Repository
 
 theme:

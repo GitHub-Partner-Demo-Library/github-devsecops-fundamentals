@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orgs/github-partner-demo-library/github-devsecops-fundamentals.git"
+    "url": "git+https://github.com/github-partner-demo-library/github-devsecops-fundamentals.git"
   },
   "keywords": [
     "GitHub",
@@ -24,9 +24,9 @@
   "author": "services@github.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/orgs/github-partner-demo-library/github-devsecops-fundamentals/issues"
+    "url": "https://github.com/github-partner-demo-library/github-devsecops-fundamentals/issues"
   },
-  "homepage": "https://github.com/orgs/github-partner-demo-library/github-devsecops-fundamentals#readme",
+  "homepage": "https://github.com/github-partner-demo-library/github-devsecops-fundamentals#readme",
   "devDependencies": {
     "@playwright/test": "^1.40.0",
     "@types/node": "^20.10.0",
